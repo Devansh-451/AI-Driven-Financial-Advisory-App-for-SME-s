@@ -31,7 +31,7 @@ AI SME Advisor is an AI-driven financial advisory application designed to provid
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-sme-advisor.git
+   git clone https://github.com/your-username/AI-Driven-Financial-Advisory-App-for-SME-s.git
    cd ai-sme-advisor
    ```
 
